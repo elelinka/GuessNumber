@@ -41,6 +41,7 @@ public class GuessNumber {
             } else {
                 System.out.println("Trafiłeś: " + randomNumber);
                 System.out.println("ilość prób: " + counter);
+                break;
             }
         }
     }
